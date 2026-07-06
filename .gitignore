@@ -6,3 +6,12 @@ node_modules/
 dist/
 build/
 .vscode/settings.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+venv/
+node_modules/
+dist/
+*.db
+.DS_Store

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "text": "Java was created by James Gosling at Sun Microsystems in 1995."
+  },
+  {
+    "id": 2,
+    "text": "Python was created by Guido van Rossum in 1991."
+  },
+  {
+    "id": 3,
+    "text": "The capital of France is Paris."
+  },
+  {
+    "id": 4,
+    "text": "The capital of India is New Delhi."
+  },
+  {
+    "id": 5,
+    "text": "The Earth revolves around the Sun."
+  },
+  {
+    "id": 6,
+    "text": "The largest planet in our solar system is Jupiter."
+  },
+  {
+    "id": 7,
+    "text": "The speed of light is approximately 299792458 meters per second."
+  },
+  {
+    "id": 8,
+    "text": "Water boils at 100 degrees Celsius at sea level."
+  }
+]
